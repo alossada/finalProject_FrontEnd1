@@ -191,9 +191,11 @@ h2.players_title{
     justify-content: center;
 }
 
-/* .players_cards_container :nth-child(3){
-    background-color: #3CDDF3; 
-} */
+.players_cards_container
+.player_card:nth-child(1),
+.player_card:nth-child(3){
+    display: none; 
+}
 
 .player_card{
     display: flex;
@@ -317,4 +319,10 @@ h2.players_title{
         margin-right: 0px;
         padding: 12px 15px 10px 90px;
     }
+
+.players_cards_container
+.player_card:nth-child(1),
+.player_card:nth-child(3){
+    display: flex; 
+}
 }
