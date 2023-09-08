@@ -27,6 +27,7 @@ El proyecto se basa en las especificaciones y diseños proporcionados en un [pro
 
 ## Demo
 
+https://github.com/alossada/finalProject_FrontEnd1/assets/97530583/3ae59814-e0d3-4c91-9041-f1cf115d58e2
 
 ## Uso
 
