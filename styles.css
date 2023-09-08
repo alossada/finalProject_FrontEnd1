@@ -30,6 +30,7 @@
 }
 
 .header_menu {
+  background-color: #FFF;
   display: flex;
   flex-direction: column;
   gap: 35px;
