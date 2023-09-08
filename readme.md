@@ -25,11 +25,15 @@ El proyecto se basa en las especificaciones y diseños proporcionados en un [pro
 - HTML5
 - CSS3 (Flexbox)
 
-## Capturas de Pantalla
+## Demo
 
-![Mobile](screenshot1.png)
-![Desktop](screenshot2.png)
 
 ## Uso
 
-El proyecto es fácil de utilizar. Solo tienes que abrir el archivo `index.html` en tu navegador web para acceder a la página web deportiva y explorar sus características.
+El proyecto es fácil de utilizar. Solo tienes que abrir el archivo `index.html` en tu navegador web para acceder a la página web y explorar sus características.
+
+## Autor 
+
+| Developer | Contact |
+| ------------- | ------------- |
+| Angélica Losada| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alossada/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alossada) |
